@@ -1,5 +1,10 @@
 # inmoov
-My Inmoov mod and code
+My Inmoov video eyes
+
+Heres a video if the eyes in action: https://www.youtube.com/watch?v=e4MdxNipw8E
+
+
+
 Welcome, These video eyes are in no way a replacment for Gaels great Inmoov eyes design, simply a reverable cool Mod. Do with it as you will! 
 If you would like to have your Inmoov have video eyes, you will need to following:
 
