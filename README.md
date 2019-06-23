@@ -18,4 +18,6 @@ I did file the back of the eyes, (on the sides) of the 3d print of the inmoov af
 
 If you have issue or questions, you can email me a jim@kruseconsultants.com and I will be happy to help!
 
+For the code, I had to use Arduino 1.6.5
+
 Happy Inmooving!-James
